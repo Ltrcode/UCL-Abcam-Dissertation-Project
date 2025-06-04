@@ -1,1 +1,1 @@
-!!! Please do not share the data 
+The data pool is not available due to its high sensitivity. Note that all test performances are based on a specific token dictionary; therefore, this project may lack universal applicability for NLP studies.
